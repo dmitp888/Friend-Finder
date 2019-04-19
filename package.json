@@ -1,0 +1,12 @@
+{
+"name": "friend-finder",
+     "version": "1.0.0",
+     "description": "Helps to find friends",
+     "main": "server.js",
+     "dependencies": {
+        "express": "^4.16.3"
+      },
+     "scripts": {
+      "start": "node server.js"
+     }
+    }
