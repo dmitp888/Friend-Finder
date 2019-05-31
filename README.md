@@ -1,6 +1,9 @@
 # Friend-Finder
 A compatibility-based "FriendFinder" application -- basically a dating app. This full-stack site  takes in results from  users' surveys, then compare their answers with those from other users. The app displays the name and picture of the user with the best overall match.
+![alt text](main.png)
+
 The survey  has 10 questions. Each answer is on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
+![alt text](survey.png)
 
 Determining the user's most compatible friend using the following:
 
@@ -15,3 +18,4 @@ Determining the user's most compatible friend using the following:
 
 Once  found the current user's most compatible friend a modal pop-ups with the result.
 The modal  displays both the name and picture of the closest match.
+![alt text](match.png)
